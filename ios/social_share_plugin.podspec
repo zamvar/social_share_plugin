@@ -16,9 +16,9 @@ Social Share to Facebook and Intagram Flutter plugin.
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
   s.dependency 'TwitterKit'
-  s.dependency 'FBSDKCoreKit', '4.44.1'
-  s.dependency 'FBSDKShareKit', '4.44.1'
-  s.dependency 'FBSDKLoginKit', '4.44.1'
+  s.dependency 'FBSDKCoreKit', '5.6.0'
+  s.dependency 'FBSDKShareKit', '5.6.0'
+  s.dependency 'FBSDKLoginKit', '5.6.0'
 
 
   s.ios.deployment_target = '9.0'
